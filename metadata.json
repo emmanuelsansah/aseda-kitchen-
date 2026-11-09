@@ -1,0 +1,8 @@
+{
+  "name": "Remix ASEDA Kitchen",
+  "description": "Authentic Ghanaian \u0026 Nigerian Restaurant - Order Banku, Fufu, Waakye, Egusi \u0026 Jollof via WhatsApp DM",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
